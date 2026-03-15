@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花れ話れ",
+  "base_artist": "田中ヒメ(HIMEHINA)",
+  "createdAt": "2026-03-15T23:48:18.740771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花れ話れ",
+      "artist": "田中ヒメ(HIMEHINA)",
+      "has_synced": false,
+      "path": "select/pl_01_花れ話れ_田中ヒメ(HIMEHINA).txt"
+    }
+  ]
+}
